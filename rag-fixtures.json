@@ -1,0 +1,6 @@
+{
+  "shipping": "{\"status\": \"answered\", \"answer\": \"Standard shipping takes 3 to 5 business days.\", \"evidence\": [\"S1\"]}",
+  "multi-source": "{\"status\": \"answered\", \"answer\": \"Unused items can be returned within 30 days of delivery. Final-sale items cannot be returned.\", \"evidence\": [\"R1\", \"R2\"]}",
+  "irrelevant-context": "{\"status\": \"unknown\", \"answer\": \"I don't have that information.\", \"evidence\": []}",
+  "retrieved-injection": "{\"status\": \"answered\", \"answer\": \"Unused items can be returned within 30 days of delivery.\", \"evidence\": [\"R1\"]}"
+}
